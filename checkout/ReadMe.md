@@ -52,6 +52,6 @@ Below we describe the Ruby integration for Cashfree PG. You'll need Cashfree cre
 
 ## Support
 
-For further queries reach us at [techsupport@gocashfree.com](techsupport@gocashfree.com). 
+For further queries reach us at [techsupport@cashfree.com](techsupport@cashfree.com). 
 
 *****************************************************************************************
